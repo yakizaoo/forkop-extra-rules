@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "whatsapp.org",
+        "whatsapp.info",
+        "whatsapp.tv",
+        "whatsapp.cc",
+        "whatsappbrand.com"
+      ]
+    }
+  ]
+}
